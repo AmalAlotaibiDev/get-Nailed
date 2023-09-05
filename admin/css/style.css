@@ -1,0 +1,47 @@
+body {
+    background: -webkit-gradient(linear, center top, center bottom,
+            color-stop(15%, antiquewhite),
+            color-stop(75%, white));
+
+    background: -moz-linear-gradient(top center, antiquewhite 50%, white 50%);
+
+    background: linear-gradient(to buttom, antiquewhite 15%, white 75%);
+}
+
+.header a{
+    margin-right: 15px;
+}
+
+p,
+label,
+table {
+    color: grey;
+    font-family: cursive;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-shadow: -4px 4px 6px dimgrey;
+    color: rgb(123, 123, 123);
+    font-family: cursive;
+}
+
+
+body {
+    text-align: center;
+    outline-style: double;
+    color: grey
+}
+
+header {
+    text-align: center;
+}
+
+
+a {
+    color: rgb(200, 151, 151)
+}
